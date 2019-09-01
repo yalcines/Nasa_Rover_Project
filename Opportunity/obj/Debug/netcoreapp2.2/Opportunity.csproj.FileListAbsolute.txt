@@ -1,0 +1,11 @@
+C:\Users\uys020\source\repos\Opportunity\Opportunity\obj\Debug\netcoreapp2.2\Opportunity.csprojAssemblyReference.cache
+C:\Users\uys020\source\repos\Opportunity\Opportunity\obj\Debug\netcoreapp2.2\Opportunity.csproj.CoreCompileInputs.cache
+C:\Users\uys020\source\repos\Opportunity\Opportunity\obj\Debug\netcoreapp2.2\Opportunity.AssemblyInfoInputs.cache
+C:\Users\uys020\source\repos\Opportunity\Opportunity\obj\Debug\netcoreapp2.2\Opportunity.AssemblyInfo.cs
+C:\Users\uys020\source\repos\Opportunity\Opportunity\bin\Debug\netcoreapp2.2\Opportunity.deps.json
+C:\Users\uys020\source\repos\Opportunity\Opportunity\bin\Debug\netcoreapp2.2\Opportunity.runtimeconfig.json
+C:\Users\uys020\source\repos\Opportunity\Opportunity\bin\Debug\netcoreapp2.2\Opportunity.runtimeconfig.dev.json
+C:\Users\uys020\source\repos\Opportunity\Opportunity\bin\Debug\netcoreapp2.2\Opportunity.dll
+C:\Users\uys020\source\repos\Opportunity\Opportunity\bin\Debug\netcoreapp2.2\Opportunity.pdb
+C:\Users\uys020\source\repos\Opportunity\Opportunity\obj\Debug\netcoreapp2.2\Opportunity.dll
+C:\Users\uys020\source\repos\Opportunity\Opportunity\obj\Debug\netcoreapp2.2\Opportunity.pdb
